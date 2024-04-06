@@ -1,0 +1,1 @@
+这一项给出节头表中与节名字符串表相关的表项的<font color="#ffff00">索引值</font>（**Section Header table InDeX related with section name STRing table**）。如果文件中没有节名字符串表，则该项值为`SHN_UNDEF`。关于细节的介绍，请参考后面的“节”和“字符串表”部分。

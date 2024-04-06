@@ -1,0 +1,16 @@
+{
+  "showStatusBarItem": true,
+  "filterSettings": {
+    "FeaturedFirst": true,
+    "StrictSearch": false,
+    "HighlightCustom": false,
+    "HighlightDuplicates": true,
+    "DisplayWOhotkeys": false,
+    "DisplayIDs": true
+  },
+  "featuredCommandIDs": [
+    "switcher:open",
+    "app:open-settings",
+    "global-search:open"
+  ]
+}

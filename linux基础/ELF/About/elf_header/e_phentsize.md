@@ -1,0 +1,1 @@
+这一项给出程序头部表中每个表项的字节长度（**Program Header ENTry SIZE**）。每个表项的大小相同。

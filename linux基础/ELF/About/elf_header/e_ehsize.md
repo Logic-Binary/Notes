@@ -1,0 +1,1 @@
+这一项给出 ELF 文件头部的字节长度（ELF Header Size）。
