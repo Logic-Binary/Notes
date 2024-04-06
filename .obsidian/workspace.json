@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux基础/ELF/About/符号表索引值所代表的.md",
+                "file": "CTF Pwn入门/系统调用Shell的四种方式.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux基础/ELF/About/符号表索引值所代表的.md"
+                "file": "CTF Pwn入门/系统调用Shell的四种方式.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux基础/ELF/About/符号表索引值所代表的.md",
+                "file": "CTF Pwn入门/系统调用Shell的四种方式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux基础/ELF/About/符号表索引值所代表的.md",
+                "file": "CTF Pwn入门/系统调用Shell的四种方式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,6 +189,7 @@
   },
   "active": "ff860622c75bb7f2",
   "lastOpenFiles": [
+    "linux基础/ELF/About/符号表索引值所代表的.md",
     "linux基础/ELF/ELF文件格式.md",
     "linux基础/ELF/About/elf_header/e_shstrndx.md",
     "linux基础/ELF/ELF64从0偏移对应字段.md",
@@ -201,7 +202,6 @@
     "Image/Linux文件格式/Pasted image 20240404134234.png",
     "南大_操作系统_Linux/1.第一周阅读材料.md",
     "南大_操作系统_Linux",
-    "linux基础/ELF/About/符号表索引值所代表的.md",
     "linux基础/ELF/About/延迟绑定.md",
     "linux基础/ELF/About/program/p_type.md",
     "linux基础/ELF/About/elf_header/e_ident.md",

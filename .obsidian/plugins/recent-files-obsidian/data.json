@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "系统调用Shell的四种方式",
+      "path": "CTF Pwn入门/系统调用Shell的四种方式.md"
+    },
+    {
       "basename": "符号表索引值所代表的",
       "path": "linux基础/ELF/About/符号表索引值所代表的.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "1.第一周阅读材料",
       "path": "南大_操作系统_Linux/1.第一周阅读材料.md"
-    },
-    {
-      "basename": "延迟绑定",
-      "path": "linux基础/ELF/About/延迟绑定.md"
     }
   ],
   "omittedPaths": [],
