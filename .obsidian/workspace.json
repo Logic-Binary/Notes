@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff860622c75bb7f2",
+            "id": "8333e9ca31cf8c80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF Pwn入门/系统调用Shell的四种方式.md",
+                "file": "linux基础/zsh配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF Pwn入门/系统调用Shell的四种方式.md"
+                "file": "linux基础/zsh配置.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF Pwn入门/系统调用Shell的四种方式.md",
+                "file": "linux基础/zsh配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF Pwn入门/系统调用Shell的四种方式.md",
+                "file": "linux基础/zsh配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dyns",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 229.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,40 +187,43 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "ff860622c75bb7f2",
+  "active": "8333e9ca31cf8c80",
   "lastOpenFiles": [
     "linux基础/ELF/About/符号表索引值所代表的.md",
-    "linux基础/ELF/ELF文件格式.md",
-    "linux基础/ELF/About/elf_header/e_shstrndx.md",
+    "linux基础/zsh配置.md",
+    "linux基础/Linux插件.md",
+    "Tips.md",
+    "Question.md",
     "linux基础/ELF/ELF64从0偏移对应字段.md",
-    "linux基础/ELF/Elf32与Elf64之间的差异.md",
-    "linux基础/ELF/About/section/sh_link.md",
-    "linux基础/ELF/About/section/sh_flags.md",
+    "linux基础/ELF/ELF文件格式.md",
+    "linux基础/GDB基本操作.md",
+    "linux基础/ELF/About/延迟绑定.md",
+    "linux基础/ELF/PLT and GOT PLT.md",
+    "Image/Linux文件格式/Pasted image 20240408103641.png",
+    "linux基础/ELF/About/elf_header/e_shstrndx.md",
+    "linux基础/ELF/About/elf_header/e_phentsize.md",
+    "linux基础/ELF/About/elf_header/e_flags.md",
+    "CTF Pwn入门/系统调用Shell的四种方式.md",
+    "linux基础/ELF/About/elf_header/e_shnum.md",
+    "linux基础/ELF/About/elf_header/e_shentsize.md",
+    "linux基础/ELF/About/elf_header/e_phnum.md",
+    "linux基础/ELF/About/elf_header/e_ehsize.md",
+    "linux基础/ELF/About/elf_header/e_shoff.md",
+    "linux基础/ELF/About/elf_header/e_phoff.md",
+    "linux基础/ELF/About/elf_header/e_type.md",
+    "linux基础/ELF/About/elf_header/e_machine.md",
+    "linux基础/ELF/About/elf_header/e_ident.md",
+    "安卓逆向/ARM汇编.md",
+    "pwnable.tw/start.md",
+    "安卓逆向",
+    "ARM.md",
     "Image/Linux文件格式/Pasted image 20240404134149.png",
     "Image/Linux文件格式/Pasted image 20240404134336.png",
     "Image/Linux文件格式/Pasted image 20240404134315.png",
     "Image/Linux文件格式/Pasted image 20240404134234.png",
-    "南大_操作系统_Linux/1.第一周阅读材料.md",
     "南大_操作系统_Linux",
-    "linux基础/ELF/About/延迟绑定.md",
-    "linux基础/ELF/About/program/p_type.md",
-    "linux基础/ELF/About/elf_header/e_ident.md",
-    "ARM环境/Ubuntu交叉编译 ARM.md",
-    "ARM环境/Ubuntu安装Qemu.md",
-    "linux基础/GDB基本操作.md",
-    "linux基础/Linux命令.md",
-    "linux基础/ELF/About/elf_header/e_shentsize.md",
-    "linux基础/ELF/About/elf_header/e_shnum.md",
     "Image/Linux文件格式/2.png",
     "Image/Linux文件格式/3.png",
-    "linux基础/ELF/About/program/p_flags.md",
-    "linux基础/ELF/About/program/p_filesz.md",
-    "linux基础/ELF/About/program/p_align.md",
-    "linux基础/ELF/About/program/p_vaddr.md",
-    "English_Word/常见单词.md",
-    "ARM环境/Docker/Docker安装&QEUM拉取.md",
-    "linux基础/zsh配置.md",
-    "ARM环境/ARM启动流程/ARM启动流程.md",
     "ARM环境/ARM启动流程/about",
     "ARM环境/Docker/Pasted image 20240328170153.png",
     "Image/其他/认知权限信息.png",
@@ -228,12 +231,10 @@
     "ARM环境/Docker",
     "Image/其他/Docker_安装.png",
     "Image/其他",
-    "Pasted image 20240328152926.png",
-    "ARM",
+    "安卓逆向",
     "ARM环境",
     "linux基础/ELF/About/section",
     "linux基础/ELF/About/program",
-    "linux基础/ELF/About/elf_header",
     "Image/Linux文件格式/未命名.canvas",
     "未命名.canvas"
   ]

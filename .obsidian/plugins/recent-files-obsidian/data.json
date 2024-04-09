@@ -1,44 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "系统调用Shell的四种方式",
-      "path": "CTF Pwn入门/系统调用Shell的四种方式.md"
+      "basename": "zsh配置",
+      "path": "linux基础/zsh配置.md"
     },
     {
-      "basename": "符号表索引值所代表的",
-      "path": "linux基础/ELF/About/符号表索引值所代表的.md"
+      "basename": "Linux插件",
+      "path": "linux基础/Linux插件.md"
     },
     {
-      "basename": "ELF文件格式",
-      "path": "linux基础/ELF/ELF文件格式.md"
+      "basename": "Tips",
+      "path": "Tips.md"
     },
     {
-      "basename": "e_shstrndx",
-      "path": "linux基础/ELF/About/elf_header/e_shstrndx.md"
+      "basename": "Question",
+      "path": "Question.md"
     },
     {
       "basename": "ELF64从0偏移对应字段",
       "path": "linux基础/ELF/ELF64从0偏移对应字段.md"
     },
     {
-      "basename": "Elf32与Elf64之间的差异",
-      "path": "linux基础/ELF/Elf32与Elf64之间的差异.md"
+      "basename": "ELF文件格式",
+      "path": "linux基础/ELF/ELF文件格式.md"
     },
     {
-      "basename": "sh_link",
-      "path": "linux基础/ELF/About/section/sh_link.md"
+      "basename": "GDB基本操作",
+      "path": "linux基础/GDB基本操作.md"
     },
     {
-      "basename": "sh_flags",
-      "path": "linux基础/ELF/About/section/sh_flags.md"
+      "basename": "延迟绑定",
+      "path": "linux基础/ELF/About/延迟绑定.md"
     },
     {
-      "basename": "Pasted image 20240404134149",
-      "path": "Image/Linux文件格式/Pasted image 20240404134149.png"
+      "basename": "PLT and GOT PLT",
+      "path": "linux基础/ELF/PLT and GOT PLT.md"
     },
     {
-      "basename": "1.第一周阅读材料",
-      "path": "南大_操作系统_Linux/1.第一周阅读材料.md"
+      "basename": "符号表索引值所代表的",
+      "path": "linux基础/ELF/About/符号表索引值所代表的.md"
     }
   ],
   "omittedPaths": [],

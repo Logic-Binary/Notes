@@ -196,7 +196,8 @@ ps:重新配置直接在终端中输入
 ~~~
 p10k configure
 ~~~
-
+请看这篇帖子
+https://www.poloxue.com/posts/2023-10-20-zsh-theme-powerlevel10k/
 
 ### 语法高亮
 
