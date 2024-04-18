@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md",
+                "file": "问题/Question.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md"
+                "file": "问题/Question.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md",
+                "file": "问题/Question.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md",
+                "file": "问题/Question.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,8 +189,10 @@
   },
   "active": "8333e9ca31cf8c80",
   "lastOpenFiles": [
-    "linux基础(更新中)/ELF/ELF文件格式.md",
+    "问题/Tips.md",
+    "linux基础(更新中)/ELF/ELF64从0偏移对应字段.md",
     "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md",
+    "linux基础(更新中)/ELF/ELF文件格式.md",
     "linux基础(更新中)/程序员的自我修养/4.符号解析与重定位.md",
     "linux基础(更新中)/程序员的自我修养/6.静态链接.md",
     "linux基础(更新中)/ELF/PLT and GOT PLT.md",
@@ -215,8 +217,6 @@
     "linux基础(更新中)/ELF/About/elf_header/e_type.md",
     "linux基础(更新中)/ELF/About/elf_header/e_shnum.md",
     "linux基础(更新中)/ELF/About/elf_header/e_phoff.md",
-    "linux基础(更新中)/ELF/About/elf_header/e_shoff.md",
-    "linux基础(更新中)/ELF/About/elf_header/e_phnum.md",
     "linux基础(更新中)/程序员的自我修养/图片/Pasted image 20240417095310.png",
     "linux基础(更新中)/ELF/About/section",
     "linux基础(更新中)/ELF/About/program",
