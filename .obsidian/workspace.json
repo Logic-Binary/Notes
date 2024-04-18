@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux基础/程序员的自我修养/7.可执行文件的装载与进程.md",
+                "file": "安卓逆向(更新中)/Aarch64过程调用标准.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux基础/程序员的自我修养/7.可执行文件的装载与进程.md"
+                "file": "安卓逆向(更新中)/Aarch64过程调用标准.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux基础/程序员的自我修养/7.可执行文件的装载与进程.md",
+                "file": "安卓逆向(更新中)/Aarch64过程调用标准.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux基础/程序员的自我修养/7.可执行文件的装载与进程.md",
+                "file": "安卓逆向(更新中)/Aarch64过程调用标准.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,46 +187,46 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "8333e9ca31cf8c80",
+  "active": "891a9e8adee96625",
   "lastOpenFiles": [
+    "安卓逆向(更新中)/ARM汇编.md",
+    "安卓逆向(更新中)/Aarch64过程调用标准.md",
+    "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md",
     "3linux基础/zsh配置.md",
-    "linux基础/ELF/About/section/sh_flags.md",
-    "linux基础/ELF/About/program/p_paddr.md",
-    "linux基础/ELF/About/section/sh_link.md",
-    "linux基础/ELF/About/program/p_vaddr.md",
-    "linux基础/ELF/About/program/p_type.md",
-    "linux基础/ELF/About/program/p_offset.md",
-    "linux基础/ELF/About/program/p_memsz.md",
-    "linux基础/ELF/About/program/p_flags.md",
-    "linux基础/ELF/About/program/p_filesz.md",
-    "linux基础/ELF/About/program/p_align.md",
-    "linux基础/ELF/About/program/Pasted image 20240327180622.png",
-    "linux基础/ELF/About/program/Pasted image 20240327180349.png",
-    "linux基础/ELF/About/elf_header/e_version.md",
-    "linux基础/ELF/About/elf_header/e_shstrndx.md",
-    "linux基础/ELF/About/elf_header/e_type.md",
-    "linux基础/ELF/About/elf_header/e_shnum.md",
-    "linux基础/ELF/About/elf_header/e_phoff.md",
-    "linux基础/ELF/About/elf_header/e_shoff.md",
-    "linux基础/ELF/About/elf_header/e_phnum.md",
-    "linux基础/ELF/About/elf_header/e_shentsize.md",
-    "linux基础/ELF/About/elf_header/e_phentsize.md",
-    "linux基础/ELF/About/elf_header/e_machine.md",
-    "linux基础/ELF/About/elf_header/e_ident.md",
-    "linux基础/ELF/About/elf_header/e_flags.md",
-    "linux基础/ELF/About/elf_header/e_ehsize.md",
-    "linux基础/ELF/About/elf_header/e_entry.md",
-    "linux基础/ELF/About/符号表索引值所代表的.md",
-    "linux基础/程序员的自我修养/图片/Pasted image 20240417095310.png",
-    "linux基础/ELF/About/section",
-    "linux基础/ELF/About/program",
-    "linux基础/ELF/About/elf_header",
-    "linux基础/程序员的自我修养/图片",
-    "linux基础/ELF/dump_elf",
-    "linux基础/ELF/About",
-    "linux基础/程序员的自我修养",
-    "linux基础/ELF",
-    "linux基础",
+    "linux基础(更新中)/ELF/About/section/sh_flags.md",
+    "linux基础(更新中)/ELF/About/program/p_paddr.md",
+    "linux基础(更新中)/ELF/About/section/sh_link.md",
+    "linux基础(更新中)/ELF/About/program/p_vaddr.md",
+    "linux基础(更新中)/ELF/About/program/p_type.md",
+    "linux基础(更新中)/ELF/About/program/p_offset.md",
+    "linux基础(更新中)/ELF/About/program/p_memsz.md",
+    "linux基础(更新中)/ELF/About/program/p_flags.md",
+    "linux基础(更新中)/ELF/About/program/p_filesz.md",
+    "linux基础(更新中)/ELF/About/program/p_align.md",
+    "linux基础(更新中)/ELF/About/program/Pasted image 20240327180622.png",
+    "linux基础(更新中)/ELF/About/program/Pasted image 20240327180349.png",
+    "linux基础(更新中)/ELF/About/elf_header/e_version.md",
+    "linux基础(更新中)/ELF/About/elf_header/e_shstrndx.md",
+    "linux基础(更新中)/ELF/About/elf_header/e_type.md",
+    "linux基础(更新中)/ELF/About/elf_header/e_shnum.md",
+    "linux基础(更新中)/ELF/About/elf_header/e_phoff.md",
+    "linux基础(更新中)/ELF/About/elf_header/e_shoff.md",
+    "linux基础(更新中)/ELF/About/elf_header/e_phnum.md",
+    "linux基础(更新中)/ELF/About/elf_header/e_shentsize.md",
+    "linux基础(更新中)/ELF/About/elf_header/e_phentsize.md",
+    "linux基础(更新中)/ELF/About/elf_header/e_machine.md",
+    "linux基础(更新中)/ELF/About/elf_header/e_ident.md",
+    "linux基础(更新中)/ELF/About/elf_header/e_flags.md",
+    "linux基础(更新中)/程序员的自我修养/图片/Pasted image 20240417095310.png",
+    "linux基础(更新中)/ELF/About/section",
+    "linux基础(更新中)/ELF/About/program",
+    "linux基础(更新中)/ELF/About/elf_header",
+    "linux基础(更新中)/程序员的自我修养/图片",
+    "linux基础(更新中)/ELF/dump_elf",
+    "linux基础(更新中)/ELF/About",
+    "linux基础(更新中)/程序员的自我修养",
+    "linux基础(更新中)/ELF",
+    "linux基础(更新中)",
     "南大_操作系统_Linux(更新中)",
     "3linux基础/程序员的自我修养/图片/Pasted image 20240417095310.png",
     "ARM环境/Docker/Pasted image 20240328170153.png",
