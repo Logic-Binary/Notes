@@ -1,5 +1,10 @@
 {
-  "recentFiles": [],
+  "recentFiles": [
+    {
+      "basename": "7.可执行文件的装载与进程",
+      "path": "linux基础/程序员的自我修养/7.可执行文件的装载与进程.md"
+    }
+  ],
   "omittedPaths": [],
   "maxLength": 10,
   "openType": "tab"

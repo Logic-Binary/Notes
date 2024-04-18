@@ -11,8 +11,12 @@
             "id": "8333e9ca31cf8c80",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "linux基础/程序员的自我修养/7.可执行文件的装载与进程.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "linux基础/程序员的自我修养/7.可执行文件的装载与进程.md"
+              }
             }
           }
         ],
@@ -107,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "linux基础/程序员的自我修养/7.可执行文件的装载与进程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "linux基础/程序员的自我修养/7.可执行文件的装载与进程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +227,7 @@
     "linux基础/程序员的自我修养",
     "linux基础/ELF",
     "linux基础",
-    "南大_操作系统_Linux",
+    "南大_操作系统_Linux(更新中)",
     "3linux基础/程序员的自我修养/图片/Pasted image 20240417095310.png",
     "ARM环境/Docker/Pasted image 20240328170153.png",
     "Image/Linux文件格式/Pasted image 20240416194107.png",
