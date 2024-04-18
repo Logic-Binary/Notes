@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "PLT and GOT PLT",
-      "path": "linux基础(更新中)/ELF/PLT and GOT PLT.md"
-    },
-    {
-      "basename": "ELF文件格式",
-      "path": "linux基础(更新中)/ELF/ELF文件格式.md"
-    },
-    {
       "basename": "Question",
       "path": "问题/Question.md"
     },
@@ -21,16 +13,32 @@
       "path": "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md"
     },
     {
+      "basename": "系统调用Shell的四种方式",
+      "path": "CTF Pwn入门(暂时搁置)/系统调用Shell的四种方式.md"
+    },
+    {
       "basename": "4.符号解析与重定位",
       "path": "linux基础(更新中)/程序员的自我修养/4.符号解析与重定位.md"
+    },
+    {
+      "basename": "5.C++相关",
+      "path": "linux基础(更新中)/程序员的自我修养/5.C++相关.md"
     },
     {
       "basename": "6.静态链接",
       "path": "linux基础(更新中)/程序员的自我修养/6.静态链接.md"
     },
     {
-      "basename": "5.C++相关",
-      "path": "linux基础(更新中)/程序员的自我修养/5.C++相关.md"
+      "basename": "符号表索引值所代表的",
+      "path": "linux基础(更新中)/ELF/About/符号表索引值所代表的.md"
+    },
+    {
+      "basename": "延迟绑定",
+      "path": "linux基础(更新中)/ELF/About/延迟绑定.md"
+    },
+    {
+      "basename": "1.第一周阅读材料",
+      "path": "南大_操作系统_Linux(更新中)/1.第一周阅读材料.md"
     }
   ],
   "omittedPaths": [],

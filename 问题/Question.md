@@ -55,7 +55,7 @@ OFFSET                           TYPE                                 VALUE
 答：链接器优化了。
 
 # 7.关于重定位条目的结构
-利用sizeof(Elf64_Rel)得到的结果是2*8，但是010editor解析出来的Elf64_Xword s_entsize是 3*8 
+利用sizeof(Elf64_Rel)得到的结果是16，但是010editor解析出来的Elf64_Xword s_entsize是 24 
 ![[Pasted image 20240416194107.png]]
 该节指向text段，条目1对应代码段偏移0x1A的位置，对应符号表中的下标为0x0A的符号，不明白的就是这个0xFFFFFFFFFFFFFFFC(临时假地址？)是什么
 条目二同理，对应代码段偏移0x27的位置，对应符号表中下标为0x0c的符号
