@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "问题/Question.md",
+                "file": "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "问题/Question.md"
+                "file": "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "问题/Question.md",
+                "file": "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "问题/Question.md",
+                "file": "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,9 +189,13 @@
   },
   "active": "8333e9ca31cf8c80",
   "lastOpenFiles": [
-    "问题/Tips.md",
+    "Pasted image 20240418222453.png",
     "问题/Question.md",
     "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md",
+    "linux基础(更新中)/程序员的自我修养/图片/Pasted image 20240418221709.png",
+    "linux基础(更新中)/程序员的自我修养/图片/Pasted image 20240418220610.png",
+    "linux基础(更新中)/程序员的自我修养/1.写在前面.md",
+    "问题/Tips.md",
     "CTF Pwn入门(暂时搁置)/系统调用Shell的四种方式.md",
     "linux基础(更新中)/程序员的自我修养/4.符号解析与重定位.md",
     "linux基础(更新中)/程序员的自我修养/5.C++相关.md",
@@ -214,8 +218,6 @@
     "linux基础(更新中)/ELF/About/program/p_vaddr.md",
     "linux基础(更新中)/ELF/About/program/p_type.md",
     "linux基础(更新中)/ELF/About/program/p_offset.md",
-    "linux基础(更新中)/ELF/About/program/p_memsz.md",
-    "linux基础(更新中)/ELF/About/program/p_flags.md",
     "linux基础(更新中)/ELF/About/program/Pasted image 20240327180622.png",
     "linux基础(更新中)/ELF/About/program/Pasted image 20240327180349.png",
     "linux基础(更新中)/程序员的自我修养/图片/Pasted image 20240417095310.png",
@@ -233,8 +235,6 @@
     "ARM环境/Docker/Pasted image 20240328170153.png",
     "Image/Linux文件格式/Pasted image 20240416194107.png",
     "Image/ARM/Pasted image 20240411215021.png",
-    "Image/ARM/Pasted image 20240411213801.png",
-    "Image/Linux文件格式/Pasted image 20240408103641.png",
     "Image/Linux文件格式/未命名.canvas",
     "未命名.canvas"
   ]

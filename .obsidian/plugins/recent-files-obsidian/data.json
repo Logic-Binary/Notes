@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "7.可执行文件的装载与进程",
+      "path": "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md"
+    },
+    {
       "basename": "Question",
       "path": "问题/Question.md"
     },
     {
       "basename": "Tips",
       "path": "问题/Tips.md"
-    },
-    {
-      "basename": "7.可执行文件的装载与进程",
-      "path": "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md"
     },
     {
       "basename": "系统调用Shell的四种方式",
@@ -35,10 +35,6 @@
     {
       "basename": "延迟绑定",
       "path": "linux基础(更新中)/ELF/About/延迟绑定.md"
-    },
-    {
-      "basename": "1.第一周阅读材料",
-      "path": "南大_操作系统_Linux(更新中)/1.第一周阅读材料.md"
     }
   ],
   "omittedPaths": [],
