@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "问题/Question.md",
+                "file": "linux基础(更新中)/ELF/PLT and GOT PLT.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "问题/Question.md"
+                "file": "linux基础(更新中)/ELF/PLT and GOT PLT.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "问题/Question.md",
+                "file": "linux基础(更新中)/ELF/PLT and GOT PLT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "问题/Question.md",
+                "file": "linux基础(更新中)/ELF/PLT and GOT PLT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,13 +189,16 @@
   },
   "active": "8333e9ca31cf8c80",
   "lastOpenFiles": [
-    "问题/Tips.md",
-    "linux基础(更新中)/ELF/ELF64从0偏移对应字段.md",
-    "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md",
+    "linux基础(更新中)/ELF/重定位表.md",
+    "linux基础(更新中)/ELF/PLT and GOT PLT.md",
     "linux基础(更新中)/ELF/ELF文件格式.md",
+    "问题/Question.md",
+    "linux基础(更新中)/ELF/ELF64从0偏移对应字段.md",
+    "linux基础(更新中)/ELF/Elf32与Elf64之间的差异.md",
+    "问题/Tips.md",
+    "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md",
     "linux基础(更新中)/程序员的自我修养/4.符号解析与重定位.md",
     "linux基础(更新中)/程序员的自我修养/6.静态链接.md",
-    "linux基础(更新中)/ELF/PLT and GOT PLT.md",
     "linux基础(更新中)/程序员的自我修养/5.C++相关.md",
     "安卓逆向(更新中)/Aarch64过程调用标准.md",
     "安卓逆向(更新中)/ARM汇编.md",
@@ -214,9 +217,6 @@
     "linux基础(更新中)/ELF/About/program/Pasted image 20240327180349.png",
     "linux基础(更新中)/ELF/About/elf_header/e_version.md",
     "linux基础(更新中)/ELF/About/elf_header/e_shstrndx.md",
-    "linux基础(更新中)/ELF/About/elf_header/e_type.md",
-    "linux基础(更新中)/ELF/About/elf_header/e_shnum.md",
-    "linux基础(更新中)/ELF/About/elf_header/e_phoff.md",
     "linux基础(更新中)/程序员的自我修养/图片/Pasted image 20240417095310.png",
     "linux基础(更新中)/ELF/About/section",
     "linux基础(更新中)/ELF/About/program",
