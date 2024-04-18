@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "安卓逆向(更新中)/Aarch64过程调用标准.md",
+                "file": "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "安卓逆向(更新中)/Aarch64过程调用标准.md"
+                "file": "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "安卓逆向(更新中)/Aarch64过程调用标准.md",
+                "file": "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "安卓逆向(更新中)/Aarch64过程调用标准.md",
+                "file": "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,11 +187,16 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "891a9e8adee96625",
+  "active": "8333e9ca31cf8c80",
   "lastOpenFiles": [
-    "安卓逆向(更新中)/ARM汇编.md",
-    "安卓逆向(更新中)/Aarch64过程调用标准.md",
+    "linux基础(更新中)/ELF/ELF文件格式.md",
     "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md",
+    "linux基础(更新中)/程序员的自我修养/4.符号解析与重定位.md",
+    "linux基础(更新中)/程序员的自我修养/6.静态链接.md",
+    "linux基础(更新中)/ELF/PLT and GOT PLT.md",
+    "linux基础(更新中)/程序员的自我修养/5.C++相关.md",
+    "安卓逆向(更新中)/Aarch64过程调用标准.md",
+    "安卓逆向(更新中)/ARM汇编.md",
     "3linux基础/zsh配置.md",
     "linux基础(更新中)/ELF/About/section/sh_flags.md",
     "linux基础(更新中)/ELF/About/program/p_paddr.md",
@@ -212,11 +217,6 @@
     "linux基础(更新中)/ELF/About/elf_header/e_phoff.md",
     "linux基础(更新中)/ELF/About/elf_header/e_shoff.md",
     "linux基础(更新中)/ELF/About/elf_header/e_phnum.md",
-    "linux基础(更新中)/ELF/About/elf_header/e_shentsize.md",
-    "linux基础(更新中)/ELF/About/elf_header/e_phentsize.md",
-    "linux基础(更新中)/ELF/About/elf_header/e_machine.md",
-    "linux基础(更新中)/ELF/About/elf_header/e_ident.md",
-    "linux基础(更新中)/ELF/About/elf_header/e_flags.md",
     "linux基础(更新中)/程序员的自我修养/图片/Pasted image 20240417095310.png",
     "linux基础(更新中)/ELF/About/section",
     "linux基础(更新中)/ELF/About/program",

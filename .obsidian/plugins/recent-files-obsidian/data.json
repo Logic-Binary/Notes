@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "7.可执行文件的装载与进程",
+      "path": "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md"
+    },
+    {
+      "basename": "ELF文件格式",
+      "path": "linux基础(更新中)/ELF/ELF文件格式.md"
+    },
+    {
+      "basename": "4.符号解析与重定位",
+      "path": "linux基础(更新中)/程序员的自我修养/4.符号解析与重定位.md"
+    },
+    {
+      "basename": "6.静态链接",
+      "path": "linux基础(更新中)/程序员的自我修养/6.静态链接.md"
+    },
+    {
+      "basename": "PLT and GOT PLT",
+      "path": "linux基础(更新中)/ELF/PLT and GOT PLT.md"
+    },
+    {
+      "basename": "5.C++相关",
+      "path": "linux基础(更新中)/程序员的自我修养/5.C++相关.md"
+    },
+    {
       "basename": "Aarch64过程调用标准",
       "path": "安卓逆向(更新中)/Aarch64过程调用标准.md"
     },
     {
       "basename": "ARM汇编",
       "path": "安卓逆向(更新中)/ARM汇编.md"
-    },
-    {
-      "basename": "7.可执行文件的装载与进程",
-      "path": "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md"
     }
   ],
   "omittedPaths": [],
