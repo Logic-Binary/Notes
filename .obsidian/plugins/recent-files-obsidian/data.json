@@ -2,43 +2,43 @@
   "recentFiles": [
     {
       "basename": "zsh配置",
-      "path": "linux基础/zsh配置.md"
+      "path": "3linux基础/zsh配置.md"
+    },
+    {
+      "basename": "Vim命令",
+      "path": "3linux基础/Vim命令.md"
+    },
+    {
+      "basename": "Linux命令",
+      "path": "3linux基础/Linux命令.md"
     },
     {
       "basename": "Linux插件",
-      "path": "linux基础/Linux插件.md"
-    },
-    {
-      "basename": "Tips",
-      "path": "Tips.md"
-    },
-    {
-      "basename": "Question",
-      "path": "Question.md"
-    },
-    {
-      "basename": "ELF64从0偏移对应字段",
-      "path": "linux基础/ELF/ELF64从0偏移对应字段.md"
-    },
-    {
-      "basename": "ELF文件格式",
-      "path": "linux基础/ELF/ELF文件格式.md"
+      "path": "3linux基础/Linux插件.md"
     },
     {
       "basename": "GDB基本操作",
-      "path": "linux基础/GDB基本操作.md"
+      "path": "3linux基础/GDB基本操作.md"
     },
     {
-      "basename": "延迟绑定",
-      "path": "linux基础/ELF/About/延迟绑定.md"
-    },
-    {
-      "basename": "PLT and GOT PLT",
-      "path": "linux基础/ELF/PLT and GOT PLT.md"
+      "basename": "7.可执行文件的装载与进程",
+      "path": "3linux基础/程序员的自我修养/7.可执行文件的装载与进程.md"
     },
     {
       "basename": "符号表索引值所代表的",
-      "path": "linux基础/ELF/About/符号表索引值所代表的.md"
+      "path": "3linux基础/ELF/About/符号表索引值所代表的.md"
+    },
+    {
+      "basename": "延迟绑定",
+      "path": "3linux基础/ELF/About/延迟绑定.md"
+    },
+    {
+      "basename": "Elf32与Elf64之间的差异",
+      "path": "3linux基础/ELF/Elf32与Elf64之间的差异.md"
+    },
+    {
+      "basename": "ELF64从0偏移对应字段",
+      "path": "3linux基础/ELF/ELF64从0偏移对应字段.md"
     }
   ],
   "omittedPaths": [],

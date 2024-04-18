@@ -75,6 +75,3 @@ Summary 概括
 - An arbitrary read enables you to read the GOT and thus bypass ASLR by calculating `libc` base  
     任意读取使您能够读取 GOT，从而通过计算 `libc` 基数来绕过 ASLR
 
-
-
-内容摘自(节选) ：[https://ir0nstone.gitbook.io/notes/types/stack/aslr/plt_and_got](https://ir0nstone.gitbook.io/notes/types/stack/aslr/plt_and_got)
