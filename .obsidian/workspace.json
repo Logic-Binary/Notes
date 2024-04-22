@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8333e9ca31cf8c80",
+            "id": "c851d4c40721f1b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md",
+                "file": "问题/Question.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md"
+                "file": "问题/Question.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md",
+                "file": "问题/Question.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md",
+                "file": "问题/Question.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "节",
+                "query": "符号表",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 254.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,40 +187,44 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "8333e9ca31cf8c80",
+  "active": "c851d4c40721f1b8",
   "lastOpenFiles": [
-    "Pasted image 20240418222453.png",
+    "问题/图片/Pasted image 20240422154721.png",
     "问题/Question.md",
-    "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md",
-    "linux基础(更新中)/程序员的自我修养/图片/Pasted image 20240418221709.png",
-    "linux基础(更新中)/程序员的自我修养/图片/Pasted image 20240418220610.png",
-    "linux基础(更新中)/程序员的自我修养/1.写在前面.md",
-    "问题/Tips.md",
-    "CTF Pwn入门(暂时搁置)/系统调用Shell的四种方式.md",
+    "问题/图片/Pasted image 20240422154801.png",
     "linux基础(更新中)/程序员的自我修养/4.符号解析与重定位.md",
+    "问题/图片/Pasted image 20240422105904.png",
+    "问题/图片/Pasted image 20240422154427.png",
+    "问题/图片/Pasted image 20240422154525.png",
+    "问题/Tips.md",
+    "linux基础(更新中)/GDB基本操作.md",
+    "问题/图片/Pasted image 20240422105708.png",
+    "问题/图片",
+    "linux基础(更新中)/程序员的自我修养/7.动态链接(未完).md",
+    "linux基础(更新中)/ELF/About/符号表索引值所代表的.md",
+    "linux基础(更新中)/ELF/PLT and GOT PLT.md",
+    "linux基础(更新中)/ELF/About/延迟绑定.md",
+    "linux基础(更新中)/ELF/ELF文件格式.md",
+    "linux基础(更新中)/Linux插件.md",
+    "linux基础(更新中)/Linux命令.md",
+    "linux基础(更新中)/Vim命令.md",
+    "linux基础(更新中)/zsh配置.md",
+    "linux基础(更新中)/程序员的自我修养/图片/Pasted image 20240419172235.png",
+    "CTF Pwn入门(暂时搁置)/系统调用Shell的四种方式.md",
+    "CTF Pwn入门(暂时搁置)/ASLR与PIE的区别.md",
+    "CTF Pwn入门(暂时搁置)/Checksec.md",
+    "CTF Pwn入门(暂时搁置)/wiki_pwn_image/wiki_rop_03.png",
+    "CTF Pwn入门(暂时搁置)/wiki_pwn_image/wiki_rop_02.png",
+    "CTF Pwn入门(暂时搁置)/wiki_pwn_image/wiki_rop_01.png",
+    "pwnable.tw/start.md",
+    "linux基础(更新中)/程序员的自我修养/6.可执行文件的装载与进程.md",
     "linux基础(更新中)/程序员的自我修养/5.C++相关.md",
     "linux基础(更新中)/程序员的自我修养/6.静态链接.md",
-    "linux基础(更新中)/程序员的自我修养/图片/Pasted image 20240418175344.png",
-    "linux基础(更新中)/ELF/About/符号表索引值所代表的.md",
-    "linux基础(更新中)/ELF/About/延迟绑定.md",
+    "linux基础(更新中)/程序员的自我修养/1.写在前面.md",
     "南大_操作系统_Linux(更新中)/1.第一周阅读材料.md",
     "安卓逆向(更新中)/Aarch64过程调用标准.md",
     "安卓逆向(更新中)/ARM汇编.md",
-    "linux基础(更新中)/ELF/PLT and GOT PLT.md",
     "linux基础(更新中)/ELF/重定位表.md",
-    "linux基础(更新中)/ELF/ELF文件格式.md",
-    "linux基础(更新中)/ELF/ELF64从0偏移对应字段.md",
-    "linux基础(更新中)/ELF/Elf32与Elf64之间的差异.md",
-    "3linux基础/zsh配置.md",
-    "linux基础(更新中)/ELF/About/section/sh_flags.md",
-    "linux基础(更新中)/ELF/About/program/p_paddr.md",
-    "linux基础(更新中)/ELF/About/section/sh_link.md",
-    "linux基础(更新中)/ELF/About/program/p_vaddr.md",
-    "linux基础(更新中)/ELF/About/program/p_type.md",
-    "linux基础(更新中)/ELF/About/program/p_offset.md",
-    "linux基础(更新中)/ELF/About/program/Pasted image 20240327180622.png",
-    "linux基础(更新中)/ELF/About/program/Pasted image 20240327180349.png",
-    "linux基础(更新中)/程序员的自我修养/图片/Pasted image 20240417095310.png",
     "linux基础(更新中)/ELF/About/section",
     "linux基础(更新中)/ELF/About/program",
     "linux基础(更新中)/ELF/About/elf_header",
@@ -230,11 +234,6 @@
     "linux基础(更新中)/程序员的自我修养",
     "linux基础(更新中)/ELF",
     "linux基础(更新中)",
-    "南大_操作系统_Linux(更新中)",
-    "3linux基础/程序员的自我修养/图片/Pasted image 20240417095310.png",
-    "ARM环境/Docker/Pasted image 20240328170153.png",
-    "Image/Linux文件格式/Pasted image 20240416194107.png",
-    "Image/ARM/Pasted image 20240411215021.png",
     "Image/Linux文件格式/未命名.canvas",
     "未命名.canvas"
   ]

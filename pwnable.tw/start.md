@@ -1,7 +1,7 @@
 检查文件信息
-![[Image/pwnable.tw_image/1.png]]
+![[pwnable.tw/image/1.png]]
 无任何保护，看反汇编 
-![[Image/pwnable.tw_image/2.png]]
+![[pwnable.tw/image/2.png]]
 
 如若利用shellcode得到shell则需要考虑esp如何获取的问题，很明显这里大概率不存在jump esp这种指令，仔细观察会发现它有push esp 指令，再看0x8048087这行语句，
 ecx也就是esp作为write&read参数输出且输入。我们先利用read函数进行溢出，ret到0x8048082这个地址，此时栈里的值是push esp ，它作为缓冲区给write当参数，在编写脚本的时候利用sh.recv(4)接收输出的四个字节，也就是esp的地址，要注意第二次溢出的时候要把接收到的esp地址+0x14，因为最后要add esp,0x14，最后注意编写脚本的时候send()与sendline()的区别，后者会发送一个/n(0x0a)

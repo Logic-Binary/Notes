@@ -1,24 +1,25 @@
 
 系统调用 shell	(execve)  
 构造execve系统调用的汇编
-![[wiki_rop_01.png]]
+![](./图片/wiki_rop_01.png)
 其中sysenter是系统终端,int 0x80 也可以
 
+```bash{.line-numbers}
 eax  = 0xb (调用号)  	         							
 ebx = '/bin/shell' 字符串地址 '/sh' 也可以	 
 ecx = 0    							
 edx = 0
 int 0x80 
-
+```
 
 系统调用 shell (system)
 这是一个函数，别忘了构造它的返回地址
-![[wiki_rop_02.png]]
+![](./图片/wiki_rop_02.png)
 
 还有两种shell，目前还未实现
 1.使用fork 和 execl函数
 
-```
+```cpp{.line-numbers}
 #include <unistd.h>
 
 int main() {
@@ -31,7 +32,7 @@ int main() {
 ```
 
 2.使用 popen 函数
-```
+```cpp{.line-numbers}
 #include <stdio.h>
 
 int main() {
@@ -47,7 +48,8 @@ int main() {
 
 
 - ret2libc2
-![[wiki_rop_03.png]]
+![](./图片/wiki_rop_03.png)
+
 该题没有’bin/shell‘字符串，需要我们手动构造gets函数写入’bin/shell‘
 
 ```

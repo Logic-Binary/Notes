@@ -1,40 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "7.可执行文件的装载与进程",
-      "path": "linux基础(更新中)/程序员的自我修养/7.可执行文件的装载与进程.md"
-    },
-    {
       "basename": "Question",
       "path": "问题/Question.md"
     },
     {
-      "basename": "Tips",
-      "path": "问题/Tips.md"
+      "basename": "Pasted image 20240422154721",
+      "path": "问题/图片/Pasted image 20240422154721.png"
     },
     {
-      "basename": "系统调用Shell的四种方式",
-      "path": "CTF Pwn入门(暂时搁置)/系统调用Shell的四种方式.md"
+      "basename": "Pasted image 20240422154801",
+      "path": "问题/图片/Pasted image 20240422154801.png"
     },
     {
       "basename": "4.符号解析与重定位",
       "path": "linux基础(更新中)/程序员的自我修养/4.符号解析与重定位.md"
     },
     {
-      "basename": "5.C++相关",
-      "path": "linux基础(更新中)/程序员的自我修养/5.C++相关.md"
+      "basename": "Pasted image 20240422105904",
+      "path": "问题/图片/Pasted image 20240422105904.png"
     },
     {
-      "basename": "6.静态链接",
-      "path": "linux基础(更新中)/程序员的自我修养/6.静态链接.md"
+      "basename": "Pasted image 20240422154427",
+      "path": "问题/图片/Pasted image 20240422154427.png"
+    },
+    {
+      "basename": "Tips",
+      "path": "问题/Tips.md"
+    },
+    {
+      "basename": "GDB基本操作",
+      "path": "linux基础(更新中)/GDB基本操作.md"
+    },
+    {
+      "basename": "7.动态链接(未完)",
+      "path": "linux基础(更新中)/程序员的自我修养/7.动态链接(未完).md"
     },
     {
       "basename": "符号表索引值所代表的",
       "path": "linux基础(更新中)/ELF/About/符号表索引值所代表的.md"
-    },
-    {
-      "basename": "延迟绑定",
-      "path": "linux基础(更新中)/ELF/About/延迟绑定.md"
     }
   ],
   "omittedPaths": [],
