@@ -13,7 +13,7 @@ PLT（过程链接表）和GOT（全局偏移表）一起工作来执行链接�
 
 当您在 C 中调用 `puts()` 并将其编译为 ELF 可执行文件时，它实际上并不是 `puts()` - 相反，它被编译为 `puts@plt` 。在GDB中查看：
 
-![[Pasted image 20240408103641.png]]
+![](../../image/Linux文件格式/Pasted image 20240408103641.png)
 
 为什么要这样做？
 

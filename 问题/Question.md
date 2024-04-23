@@ -74,7 +74,8 @@ OFFSET                           TYPE                                 VALUE
 # 7.关于重定位条目的结构
 
 利用sizeof(Elf64_Rel)得到的结果是16，但是010editor解析出来的Elf64_Xword s_entsize是 24 
-![[Pasted image 20240416194107.png]]
+
+![](../image/Linux文件格式/Pasted image 20240416194107.png)
 该节指向text段，条目1对应代码段偏移0x1A的位置，对应符号表中的下标为0x0A的符号，不明白的就是这个0xFFFFFFFFFFFFFFFC(临时假地址？)是什么
 条目二同理，对应代码段偏移0x27的位置，对应符号表中下标为0x0c的符号
 又出现了0xFFFFFFFFFFFFFFFC
@@ -91,15 +92,19 @@ ps:要想解决这个问题，需要深入了解linux内核知识！
 # 9.文件中got表中的偏移什么意思
 
 在二进制文件中查看got表
-![[Pasted image 20240422154427.png]]
+
+![](图片/Pasted image 20240422154427.png)
 这三个偏移指向plt中，我利用ida查看这三个地方的偏移发现这里是0
 
 动态去跟踪发现这里是这样的代码(程序加载后)
-![[Pasted image 20240422154721.png]]
+
+![](图片/Pasted image 20240422154721.png)
 它们都跳转到了5020这个地址上，我们来看一下是什么
-![[Pasted image 20240422154801.png]]
+
+![](图片/Pasted image 20240422154801.png)
 这里目前还没搞清楚是什么意思，猜测是第一次解析动态链接函数所需要的函数
 
 # 10.将可执行文件的.got表中的偏移修改后，放入IDA无法识别函数名，识别函数名与.got表有何关联？
 
 <font color="#f79646">未解决</font>
+
