@@ -382,7 +382,7 @@ sed -i 's|/path/to|~/.config/zsh/zsh-autocomplete|g' ~/.zshrc
 
 ![动图](https://pic3.zhimg.com/v2-a3144231cee7e477ec204c67ee7ffdba_b.webp)
 
-  
+
 ### 按键绑定
 
 Key Bindings，即按键绑定，它让 zsh 给你带来更加丝滑的体验，诸如实现将按键绑定到特定功能、启动程序、复制粘贴等。注意，部分组合键可能无效，shell 捕捉按键的能力是有限的。
@@ -499,3 +499,10 @@ hello:world linux
 
 来自知乎 
 https://zhuanlan.zhihu.com/p/658811059
+
+
+
+
+
+
+
